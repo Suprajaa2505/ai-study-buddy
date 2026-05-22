@@ -80,7 +80,9 @@ ai-study-buddy/
 ## Screenshots
 
 ![Welcome](screenshots/welcome.png)
-![Chat](screenshots/chat.png,chat2.png,chat3.png)
+![Chat](screenshots/chat.png)
+![Chat2](screenshots/chat2.png)
+![Chat3](screenshots/chat3.png)
 
 ## Note
 Supports text-based PDFs only. Scanned/image PDFs are not supported
