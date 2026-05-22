@@ -77,5 +77,10 @@ ai-study-buddy/
 | GET | /api/sessions | List all sessions |
 | DELETE | /api/sessions/:id | Delete session |
 
+## Screenshots
+
+![Welcome](screenshots/welcome.png)
+![Chat](screenshots/chat.png,chat2.png,chat3.png)
+
 ## Note
 Supports text-based PDFs only. Scanned/image PDFs are not supported
